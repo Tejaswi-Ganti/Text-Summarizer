@@ -39,7 +39,7 @@
 
 
   <script type="application/json" id="client-env">{"locale":"en","featureFlags":["code_vulnerability_scanning","copilot_conversational_ux_history_refs","copilot_smell_icebreaker_ux","copilot_implicit_context","failbot_handle_non_errors","geojson_azure_maps","image_metric_tracking","marketing_forms_api_integration_contact_request","marketing_pages_search_explore_provider","turbo_experiment_risky","sample_network_conn_type","no_character_key_shortcuts_in_inputs","react_start_transition_for_navigations","custom_inp","remove_child_patch"]}</script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-3828f7d1fc7f.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-6973978863b7.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_dompurify_dist_purify_js-6890e890956f.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_oddbird_popover-polyfill_dist_popover_js-7bd350d761f4.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_smoothscroll-polyfill_dist_smoothscroll_js-node_modules_stacktrace-parse-a448e4-bb5415637fe0.js"></script>
@@ -55,7 +55,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-b7d8f4-654130b7cde5.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_primer_view-co-3959a9-134c7fee9431.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/github-elements-817a1189f75d.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-9a5692830082.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-521c38b1d51c.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_stacktrace-parser_dist_s-1acb1c-a745699a1cfa.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_lit-html_lit-html_js-5b376145beff.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_morphdom_dist_morphdom-esm_js-node_modules_github_memoize_dist_esm_index_js-05801f7ca718.js"></script>
@@ -104,7 +104,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-code-view-dd97da5c531b.js"></script>
 
 
-  <title>Text-Summarizer/dataset/corpus.zip at main · Tejaswi-Ganti/Text-Summarizer · GitHub</title>
+  <title>Text-Summarizer/dataset/summarizer-data.zip at main · Tejaswi-Ganti/Text-Summarizer · GitHub</title>
 
 
 
@@ -116,7 +116,7 @@
   <meta name="current-catalog-service-hash" content="82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7">
 
 
-  <meta name="request-id" content="0B4D:3552B0:9E31FD:AD7AA5:660F8F7A" data-pjax-transient="true"/><meta name="html-safe-nonce" content="9629367484454563385a8b5b873b986a61874956d10bd682713d62c3205dcd4d" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIwQjREOjM1NTJCMDo5RTMxRkQ6QUQ3QUE1OjY2MEY4RjdBIiwidmlzaXRvcl9pZCI6IjI2NzQ5OTUzNzcwMDI3NDU3MjIiLCJyZWdpb25fZWRnZSI6ImNlbnRyYWxpbmRpYSIsInJlZ2lvbl9yZW5kZXIiOiJjZW50cmFsaW5kaWEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="6f1c24d0ae7b65b0ccf491ec39ca7671746e962a600d129785d1034688b9d2e9" data-pjax-transient="true"/>
+  <meta name="request-id" content="0B12:288758:1FC165F:22A3377:660FCEF0" data-pjax-transient="true"/><meta name="html-safe-nonce" content="23281aa4f77d6597608ac0759e24ff21d20299e276358d4740e300934289afd8" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIwQjEyOjI4ODc1ODoxRkMxNjVGOjIyQTMzNzc6NjYwRkNFRjAiLCJ2aXNpdG9yX2lkIjoiNzE5NjgxNzgzNzY0NTYxNDgzMiIsInJlZ2lvbl9lZGdlIjoiY2VudHJhbGluZGlhIiwicmVnaW9uX3JlbmRlciI6ImNlbnRyYWxpbmRpYSJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="f1d629da164db96c6c0146eea15663c259f8ba343b90ba47698dc64086cadfcf" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:779616207" data-turbo-transient>
@@ -154,9 +154,9 @@
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
-    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/Tejaswi-Ganti/Text-Summarizer/blob/main/dataset/corpus.zip" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/456ecb5e628c0a0d4868cdb258b301626e8a120df5e0daad52f99f59fa07dc39/Tejaswi-Ganti/Text-Summarizer" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Text-Summarizer/dataset/corpus.zip at main · Tejaswi-Ganti/Text-Summarizer" /><meta name="twitter:description" content="Contribute to Tejaswi-Ganti/Text-Summarizer development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/456ecb5e628c0a0d4868cdb258b301626e8a120df5e0daad52f99f59fa07dc39/Tejaswi-Ganti/Text-Summarizer" /><meta property="og:image:alt" content="Contribute to Tejaswi-Ganti/Text-Summarizer development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Text-Summarizer/dataset/corpus.zip at main · Tejaswi-Ganti/Text-Summarizer" /><meta property="og:url" content="https://github.com/Tejaswi-Ganti/Text-Summarizer/blob/main/dataset/corpus.zip" /><meta property="og:description" content="Contribute to Tejaswi-Ganti/Text-Summarizer development by creating an account on GitHub." />
+    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/Tejaswi-Ganti/Text-Summarizer/blob/main/dataset/summarizer-data.zip" />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/456ecb5e628c0a0d4868cdb258b301626e8a120df5e0daad52f99f59fa07dc39/Tejaswi-Ganti/Text-Summarizer" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Text-Summarizer/dataset/summarizer-data.zip at main · Tejaswi-Ganti/Text-Summarizer" /><meta name="twitter:description" content="Contribute to Tejaswi-Ganti/Text-Summarizer development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/456ecb5e628c0a0d4868cdb258b301626e8a120df5e0daad52f99f59fa07dc39/Tejaswi-Ganti/Text-Summarizer" /><meta property="og:image:alt" content="Contribute to Tejaswi-Ganti/Text-Summarizer development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Text-Summarizer/dataset/summarizer-data.zip at main · Tejaswi-Ganti/Text-Summarizer" /><meta property="og:url" content="https://github.com/Tejaswi-Ganti/Text-Summarizer/blob/main/dataset/summarizer-data.zip" /><meta property="og:description" content="Contribute to Tejaswi-Ganti/Text-Summarizer development by creating an account on GitHub." />
       
 
 
@@ -168,10 +168,10 @@
         <meta name="expected-hostname" content="github.com">
 
 
-  <meta http-equiv="x-pjax-version" content="3fe516b29c3ab834ae66e251605e64f21a227b7dff8eaebaa195ba048572970a" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-version" content="2b431bf59883e0f49bb19309731df6bc614628d3476d1e87e7303d8a5b564058" data-turbo-track="reload">
   <meta http-equiv="x-pjax-csp-version" content="f226bf37af9c33162063db3eb018fed7f088f86d0a20ca54c013fda96c7f2e05" data-turbo-track="reload">
   <meta http-equiv="x-pjax-css-version" content="e8194b51882c7502dabe617721042c92be44366731a7c30ac53793532fee40db" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-js-version" content="897ede1b9191ff27d3730ad2028013febfb7cc0db28bc3a7cd0876b2d07e6d5b" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="91a52a5e921031a38b502a330d04c75024a1d36a97469b9b08e9714777437175" data-turbo-track="reload">
 
   <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
 
@@ -259,9 +259,9 @@
       </a>
 
       <div class="flex-1">
-        <a href="/login?return_to=https%3A%2F%2Fgithub.com%2FTejaswi-Ganti%2FText-Summarizer%2Fblob%2Fmain%2Fdataset%2Fcorpus.zip"
+        <a href="/login?return_to=https%3A%2F%2Fgithub.com%2FTejaswi-Ganti%2FText-Summarizer%2Fblob%2Fmain%2Fdataset%2Fsummarizer-data.zip"
           class="d-inline-block d-lg-none flex-order-1 f5 no-underline border color-border-default rounded-2 px-2 py-1 color-fg-inherit"
-          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Tejaswi-Ganti/Text-Summarizer/blob/main/dataset/corpus.zip&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="65513e77e4207f9ce56aa45a9847b855e32272c4a006e547b2aa7dbd6d0a6688"
+          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Tejaswi-Ganti/Text-Summarizer/blob/main/dataset/summarizer-data.zip&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b61dc0280e80012a80f9da04d880596eb302f825bb9bd2a13ce57795adb14191"
           data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
           Sign in
         </a>
@@ -634,7 +634,7 @@
                 
 
 
-<qbsearch-input class="search-input" data-scope="repo:Tejaswi-Ganti/Text-Summarizer" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="54lAZqTnZ8itSUOk02GP1nLdzwJUL1kb-PRf34LrgToMcfFURvMmFt13oDzB9-COL0arO2fI4zFkc1Q02D0qmg" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="Tejaswi-Ganti/Text-Summarizer" data-current-org="" data-current-owner="Tejaswi-Ganti" data-logged-in="false" data-copilot-chat-enabled="false" data-blackbird-indexed-repo-csrf="<esi:include src=&quot;/_esi/rails_csrf_token_form_hidden?r=NtSEdXnQUlVg1oWtwSwdi3tdBHc4szOp0weGJrsJ3v2GPUKGmqJpYg%2BqzQKht1TBmwZQQNWghlmrT9z7UKWdaA8iVpBe6dZX%2FPPV%2BskkExbuk3xqOEBjCDbXhotk0kDVPWySLN5Qu0tAHjiaIenVpdTxk4NSRfJ4QTr6JbThGVelYZmvVilU3e0eyuCu5bdbQLtlzb9Kk4md%2BQ5ZXsLxLg1gup%2BBYJBH%2FirGLQlIkU3AZRqZxPs2KpiHLM20SSsN0%2BqiW1KkNkh2soxZ6PK%2BnunU7CRebycKQh%2FyN9P%2Ffrb8iqxMDcwRszM0iLl728b%2BnYSN8Xi7FNOYLyIwXGonuT1B3%2BoVdNo43rWEff%2Bi%2FUNaJGjVEqVoQQLonM4lkQZkBLw5eaWipGju5sVXdYRQ7%2FV9EoEVp5dcV%2B8a3Wmiqd%2FWAYZyMqIdgSovyhjXpSYafErhRG1k%2FS3O8C%2Fgxjx6JEeud7GC55XVF5%2FFMZJnYfcoqBONWUdeJiCAJT7sNszeaVmkpHB%2FBbacLw1tvg%2Bw8I6w74pmfqTieUldtLc2%2BnJGuR%2FZeBNZbS0wK26b1Suc8iifNNx9QQUlj1E94kFsmeLH0hckTw%3D%3D--EU7BWqSnHqp%2Brjj1--RBbCNfp%2FGfLIDsryhJKB4A%3D%3D&quot; />">
+<qbsearch-input class="search-input" data-scope="repo:Tejaswi-Ganti/Text-Summarizer" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="AXe41YyxhKBCl5Wfs64Sh6lDmeknH-FFkSORroU2D1Kx7B4eIA5poCGdgUftwVZyH4edpIaqBhVGX9gIPQlvrA" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="Tejaswi-Ganti/Text-Summarizer" data-current-org="" data-current-owner="Tejaswi-Ganti" data-logged-in="false" data-copilot-chat-enabled="false" data-blackbird-indexed-repo-csrf="<esi:include src=&quot;/_esi/rails_csrf_token_form_hidden?r=Jj0%2BaCeQ4hTx%2FlSpUMGlmFiZnmFw9joGR7q1I0fBV99GTd5zEstAr0J6ljI6hlLsodUli%2BFenmc5Zcv%2FRtAxCuve3vFiPBZtiL8FSegm0%2FSeBO5d3pg8tdiEH91i41W0RcgmfdzW90sdGN0%2BzkYqRIikC7rIA0g8e7xGQZ0jfTHvbUZU6P0SJSiz7qbBat5gbD7%2BNQku2g6A5ys9z3DtFYyT530I4z9RtucKOUSxvBEvB6RqJaoyvyoZ6xYz9E8kFVr22iz6ClBjGmZwb1Rnza760GGkjminLP6Swbzay3pz1LYHXjllZ0tB0CCUEksLx5fQ5vvUtgGT6FRRJ5hXNlf%2FxAAmW2OmF1i0GASs4h31QYkrMwa8DIXXk%2BkxHcnoBfsWW5ROZt9rTlySygiMqkxVkW%2B18Swct1ZanKylddeLzXzX%2BlzOM%2F0bNWtkIRfoeQ3xdT9KB5P5%2F3WBl1TYUqSiqXI0cLww6e2%2Fb0XpaC2bRyt3sLvqx4rpprafnVSlzMxsqO95JIZ%2BQBaiPmLH1%2F%2Fic3TWrk%2FuLzjx%2BWCY6QWJRLt8cL7n22%2FOMPIHmBgOXzVO1N1BJQrbEg2uY7gfHUplql2DjYPTHvfY%2FPbvRJOeKA%3D%3D--%2FQ84hEPdmqa61i1W--jI364Iro6ZpCJVH%2BXbcS2A%3D%3D&quot; />">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center mr-4 rounded"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -696,7 +696,7 @@
           ></div>
           <div class="QueryBuilder-InputWrapper">
             <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-4df62ae1-2834-4e9d-9a53-a62fade02dd4" data-target="query-builder.input" data-action="
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-781bbe67-b5b7-49af-98b0-a7c3fd98c64c" data-target="query-builder.input" data-action="
           input:query-builder#inputChange
           blur:query-builder#inputBlur
           keydown:query-builder#inputKeydown
@@ -927,7 +927,7 @@
                   id="query-builder-test-results"
                 ></ul>
         </div>
-      <div class="FormControl-inlineValidation" id="validation-4df62ae1-2834-4e9d-9a53-a62fade02dd4" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-781bbe67-b5b7-49af-98b0-a7c3fd98c64c" hidden="hidden">
         <span class="FormControl-inlineValidation--visual">
           <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
     <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -968,7 +968,7 @@
   </div>
 </div>
       <scrollable-region data-labelled-by="feedback-dialog-title">
-        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="maAKmFQQ0DtsN7CrSZ1UuLp+qQJNq6tbeKunq6zYaoSqy57PSqBmBbb8R9dV21HWug1OIQmcg80zVAlnWribWQ==" />
+        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="oXGsLqwPnS698lwSsyLDxAtqhuq3dYJItC+BRUiLnazNp9W2tgiIEshCQOH/bqYHZZAOYFSkkEPcFg6cbuBIdA==" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -1005,7 +1005,7 @@
         <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="ufxDuab7+UM+vUdtyL5hwo2uSFH6nAUyKEKUGvSnZyBqvCdNgZadD4DPd0r6aao/XnfUsGWASdgtoF9MQl6XaA==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="ChlxV5/OGM7JUYnFmNP8Jg8wu0+9/CGxU+/jnjwnjCFj57n1VRoRRHXPHePnhZ5zjoOqqtkT6AooSrfuAmPOvw==" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -1023,7 +1023,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" data-csrf="true" value="iUmsXwsTl56V6bigrvn1KVObkxJFuD4Yc6UzXzu4GGA2Mw8SKKpJj4FPbgyFJ3puj9WG25MLhgvvoVhMZ0OFag==" />
+              <input type="hidden" data-csrf="true" value="h3wpBwBXFnoqa7HCB1bwdqx6bMeqGSZGcznldoqNPEWhXS2xaoZ/wIscjD3eGImIGkQ3TlrBLySLA5OfFETvqg==" />
             </auto-check>
           </div>
 
@@ -1060,13 +1060,13 @@
 </dialog></dialog-helper>
     </custom-scopes>
   </div>
-</qbsearch-input><input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="mPBZtzPM94gDxtM+Bw+ZEn+Bx7z0XGFYyyCSvg77/XTyoJ3iN1le5R3dfMKESEj/WcJ7XZf3IjNSIYQAPkfQIg==" />
+</qbsearch-input><input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="PMEAVWZxAmCInUbSjj8u7vgAAMxm9ZRjiaZ5JdQc5JfE5g1ptjul6c7F2EtaE/TBfu6UoCHiIzsOPFaBXlddFQ==" />
 
 
           <div class="position-relative mr-lg-3 d-lg-inline-block">
-            <a href="/login?return_to=https%3A%2F%2Fgithub.com%2FTejaswi-Ganti%2FText-Summarizer%2Fblob%2Fmain%2Fdataset%2Fcorpus.zip"
+            <a href="/login?return_to=https%3A%2F%2Fgithub.com%2FTejaswi-Ganti%2FText-Summarizer%2Fblob%2Fmain%2Fdataset%2Fsummarizer-data.zip"
               class="HeaderMenu-link HeaderMenu-link--sign-in flex-shrink-0 no-underline d-block d-lg-inline-block border border-lg-0 rounded rounded-lg-0 p-2 p-lg-0"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Tejaswi-Ganti/Text-Summarizer/blob/main/dataset/corpus.zip&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="65513e77e4207f9ce56aa45a9847b855e32272c4a006e547b2aa7dbd6d0a6688"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Tejaswi-Ganti/Text-Summarizer/blob/main/dataset/summarizer-data.zip&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b61dc0280e80012a80f9da04d880596eb302f825bb9bd2a13ce57795adb14191"
               data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
               Sign in
             </a>
@@ -1074,7 +1074,7 @@
 
             <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=Tejaswi-Ganti%2FText-Summarizer"
               class="HeaderMenu-link HeaderMenu-link--sign-up flex-shrink-0 d-none d-lg-inline-block no-underline border color-border-default rounded px-2 py-1"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Tejaswi-Ganti/Text-Summarizer/blob/main/dataset/corpus.zip&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="65513e77e4207f9ce56aa45a9847b855e32272c4a006e547b2aa7dbd6d0a6688"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Tejaswi-Ganti/Text-Summarizer/blob/main/dataset/summarizer-data.zip&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b61dc0280e80012a80f9da04d880596eb302f825bb9bd2a13ce57795adb14191"
               data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;}"
             >
               Sign up
@@ -1094,10 +1094,10 @@
         <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
         <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-    <button id="icon-button-36d48f8f-2036-43e6-8b0e-23a8e28e90db" aria-labelledby="tooltip-aa5d01ed-c69f-45f3-b159-50057f195038" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <button id="icon-button-9f6ea536-485e-4721-b6d4-21db7b170766" aria-labelledby="tooltip-05a821b0-9706-490c-9fe4-20e8f18b75a4" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-aa5d01ed-c69f-45f3-b159-50057f195038" for="icon-button-36d48f8f-2036-43e6-8b0e-23a8e28e90db" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-05a821b0-9706-490c-9fe4-20e8f18b75a4" for="icon-button-9f6ea536-485e-4721-b6d4-21db7b170766" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
   
@@ -1195,14 +1195,14 @@
       
 
   <li>
-            <a href="/login?return_to=%2FTejaswi-Ganti%2FText-Summarizer" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Tejaswi-Ganti/Text-Summarizer/blob/main/dataset/corpus.zip&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0b5b131ffe92afab0a5e87a4a6873b49819fc11ddf4b3f30e03ed39cee2b9be5" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
+            <a href="/login?return_to=%2FTejaswi-Ganti%2FText-Summarizer" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Tejaswi-Ganti/Text-Summarizer/blob/main/dataset/summarizer-data.zip&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="dbad5c47b625779faf1af682bf6919df2c4479f96e9a2702743e8cd5c75fba2b" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
     <path d="M8 16a2 2 0 0 0 1.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 0 0 8 16ZM3 5a5 5 0 0 1 10 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.519 1.519 0 0 1 13.482 13H2.518a1.516 1.516 0 0 1-1.263-2.36l1.703-2.554A.255.255 0 0 0 3 7.947Zm5-3.5A3.5 3.5 0 0 0 4.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.017.017 0 0 0-.003.01l.001.006c0 .002.002.004.004.006l.006.004.007.001h10.964l.007-.001.006-.004.004-.006.001-.007a.017.017 0 0 0-.003-.01l-1.703-2.554a1.745 1.745 0 0 1-.294-.97V5A3.5 3.5 0 0 0 8 1.5Z"></path>
 </svg>Notifications
 </a>
   </li>
 
   <li>
-          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2FTejaswi-Ganti%2FText-Summarizer" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:779616207,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Tejaswi-Ganti/Text-Summarizer/blob/main/dataset/corpus.zip&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b23e07f11c4390d0469d362b94322a18fc0551c38525396bb5be057d0f7c8fec" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2FTejaswi-Ganti%2FText-Summarizer" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:779616207,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Tejaswi-Ganti/Text-Summarizer/blob/main/dataset/summarizer-data.zip&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="27400c353692b68dc0e02604731731ab69ac2d7f6e170c74e1a1c2a705739c93" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
 </svg>Fork
     <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter">0</span>
@@ -1211,7 +1211,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup d-flex">
-        <a href="/login?return_to=%2FTejaswi-Ganti%2FText-Summarizer" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:779616207,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Tejaswi-Ganti/Text-Summarizer/blob/main/dataset/corpus.zip&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b2f2196548503e35b8405caa0c73a1a94feffab3e93528117062f143edbf1d01" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
+        <a href="/login?return_to=%2FTejaswi-Ganti%2FText-Summarizer" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:779616207,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Tejaswi-Ganti/Text-Summarizer/blob/main/dataset/summarizer-data.zip&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f42eee18ec19fb7fae7854d8a7f00877c7d60d94f59cfcfafe9b2e1ef1dd9ada" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -1324,21 +1324,21 @@
 </ul>
     <div style="visibility:hidden;" data-view-component="true" class="UnderlineNav-actions js-responsive-underlinenav-overflow position-absolute pr-3 pr-md-4 pr-lg-5 right-0">      <action-menu data-select-variant="none" data-view-component="true">
   <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-e868c37e-b73e-4a09-b598-a825c2804f95-button" popovertarget="action-menu-e868c37e-b73e-4a09-b598-a825c2804f95-overlay" aria-controls="action-menu-e868c37e-b73e-4a09-b598-a825c2804f95-list" aria-haspopup="true" aria-labelledby="tooltip-b4305289-ea16-4497-abde-63ad2756c294" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <button id="action-menu-cef35932-4e29-4deb-9c61-ee9e178b870f-button" popovertarget="action-menu-cef35932-4e29-4deb-9c61-ee9e178b870f-overlay" aria-controls="action-menu-cef35932-4e29-4deb-9c61-ee9e178b870f-list" aria-haspopup="true" aria-labelledby="tooltip-e6f66230-fa42-46e9-b084-d95a418a2728" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-b4305289-ea16-4497-abde-63ad2756c294" for="action-menu-e868c37e-b73e-4a09-b598-a825c2804f95-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
+</button><tool-tip id="tooltip-e6f66230-fa42-46e9-b084-d95a418a2728" for="action-menu-cef35932-4e29-4deb-9c61-ee9e178b870f-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
 
 
-<anchored-position id="action-menu-e868c37e-b73e-4a09-b598-a825c2804f95-overlay" anchor="action-menu-e868c37e-b73e-4a09-b598-a825c2804f95-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+<anchored-position id="action-menu-cef35932-4e29-4deb-9c61-ee9e178b870f-overlay" anchor="action-menu-cef35932-4e29-4deb-9c61-ee9e178b870f-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
     
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
   <div data-view-component="true">
-    <ul aria-labelledby="action-menu-e868c37e-b73e-4a09-b598-a825c2804f95-button" id="action-menu-e868c37e-b73e-4a09-b598-a825c2804f95-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+    <ul aria-labelledby="action-menu-cef35932-4e29-4deb-9c61-ee9e178b870f-button" id="action-menu-cef35932-4e29-4deb-9c61-ee9e178b870f-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
         <li hidden="hidden" data-menu-item="i0code-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-e89d1d47-b814-4ef7-b9bc-257f469c0a53" href="/Tejaswi-Ganti/Text-Summarizer" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-597df3c0-399b-4c6c-a9c8-f38588d75652" href="/Tejaswi-Ganti/Text-Summarizer" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1353,7 +1353,7 @@
 </li>
         <li hidden="hidden" data-menu-item="i1issues-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-f6422c8d-76ac-4185-8c76-e3974f2e6c21" href="/Tejaswi-Ganti/Text-Summarizer/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-745f4998-3ad2-4c56-aeda-faba99c9c53e" href="/Tejaswi-Ganti/Text-Summarizer/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -1368,7 +1368,7 @@
 </li>
         <li hidden="hidden" data-menu-item="i2pull-requests-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-8452c254-7483-45a6-ba8e-376e0f295c4d" href="/Tejaswi-Ganti/Text-Summarizer/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-e5e4c4cb-57d5-4fe8-be64-b484825b20c8" href="/Tejaswi-Ganti/Text-Summarizer/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -1383,7 +1383,7 @@
 </li>
         <li hidden="hidden" data-menu-item="i3actions-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-822c4dee-8f2f-4fba-a053-b362d1bb6a91" href="/Tejaswi-Ganti/Text-Summarizer/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-c28cafd9-2923-416e-a04f-f92f108f8d9f" href="/Tejaswi-Ganti/Text-Summarizer/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1398,7 +1398,7 @@
 </li>
         <li hidden="hidden" data-menu-item="i4projects-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-abbed6a3-cd75-4290-84e3-f3f7aefd01f6" href="/Tejaswi-Ganti/Text-Summarizer/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-dfc0a49b-8a56-4939-bc54-c71adaedf210" href="/Tejaswi-Ganti/Text-Summarizer/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
@@ -1413,7 +1413,7 @@
 </li>
         <li hidden="hidden" data-menu-item="i5security-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-4bc23d1c-0665-4ee0-971d-c3fb3772938f" href="/Tejaswi-Ganti/Text-Summarizer/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-aaf0bd9c-93f4-4917-843c-47c423c9fcf2" href="/Tejaswi-Ganti/Text-Summarizer/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
@@ -1428,7 +1428,7 @@
 </li>
         <li hidden="hidden" data-menu-item="i6insights-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-1543ade4-b061-48a2-a058-1966f4e0b63f" href="/Tejaswi-Ganti/Text-Summarizer/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-fbf93865-f562-459f-a668-b4b6eb882780" href="/Tejaswi-Ganti/Text-Summarizer/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1473,14 +1473,14 @@
 
 <react-app
   app-name="react-code-view"
-  initial-path="/Tejaswi-Ganti/Text-Summarizer/blob/main/dataset/corpus.zip"
+  initial-path="/Tejaswi-Ganti/Text-Summarizer/blob/main/dataset/summarizer-data.zip"
   style="min-height: calc(100vh - 64px)" 
   data-ssr="false"
   data-lazy="false"
   data-alternate="false"
 >
   
-  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":false,"fileTree":{"dataset":{"items":[{"name":"README.txt","path":"dataset/README.txt","contentType":"file"},{"name":"corpus.7z","path":"dataset/corpus.7z","contentType":"file"},{"name":"corpus.zip","path":"dataset/corpus.zip","contentType":"file"},{"name":"data.zip","path":"dataset/data.zip","contentType":"file"},{"name":"licence.txt","path":"dataset/licence.txt","contentType":"file"},{"name":"samsum-test.csv","path":"dataset/samsum-test.csv","contentType":"file"},{"name":"samsum-test.json","path":"dataset/samsum-test.json","contentType":"file"},{"name":"samsum-train.csv","path":"dataset/samsum-train.csv","contentType":"file"},{"name":"samsum-train.json","path":"dataset/samsum-train.json","contentType":"file"},{"name":"samsum-validation.csv","path":"dataset/samsum-validation.csv","contentType":"file"},{"name":"samsum-validation.json","path":"dataset/samsum-validation.json","contentType":"file"},{"name":"test.json","path":"dataset/test.json","contentType":"file"},{"name":"train.json","path":"dataset/train.json","contentType":"file"},{"name":"val.json","path":"dataset/val.json","contentType":"file"}],"totalCount":14},"":{"items":[{"name":".github","path":".github","contentType":"directory"},{"name":"artifacts","path":"artifacts","contentType":"directory"},{"name":"config","path":"config","contentType":"directory"},{"name":"dataset","path":"dataset","contentType":"directory"},{"name":"research","path":"research","contentType":"directory"},{"name":"src","path":"src","contentType":"directory"},{"name":".gitignore","path":".gitignore","contentType":"file"},{"name":"Dockerfile","path":"Dockerfile","contentType":"file"},{"name":"LICENSE","path":"LICENSE","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"app.py","path":"app.py","contentType":"file"},{"name":"main.py","path":"main.py","contentType":"file"},{"name":"params.yaml","path":"params.yaml","contentType":"file"},{"name":"requirements.txt","path":"requirements.txt","contentType":"file"},{"name":"setup.py","path":"setup.py","contentType":"file"},{"name":"template.py","path":"template.py","contentType":"file"}],"totalCount":16}},"fileTreeProcessingTime":6.523501,"foldersToFetch":[],"repo":{"id":779616207,"defaultBranch":"main","name":"Text-Summarizer","ownerLogin":"Tejaswi-Ganti","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2024-03-30T10:11:12.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/95241216?v=4","public":true,"private":false,"isOrgOwned":false},"codeLineWrapEnabled":false,"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"main","listCacheKey":"v0:1711793472.983863","canEdit":false,"refType":"branch","currentOid":"2383b1684bb6bd75b4608a46941d40389f591c08"},"path":"dataset/corpus.zip","currentUser":null,"blob":{"rawLines":null,"stylingDirectives":[],"colorizedLines":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/Tejaswi-Ganti/Text-Summarizer/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null},"displayName":"corpus.zip","displayUrl":"https://github.com/Tejaswi-Ganti/Text-Summarizer/blob/main/dataset/corpus.zip?raw=true","headerInfo":{"blobSize":"3.94 MB","deleteTooltip":"You must be signed in to make or propose changes","editTooltip":"You must be signed in to make or propose changes","ghDesktopPath":"https://desktop.github.com","isGitLfs":false,"onBranch":true,"shortPath":"58a15c4","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2FTejaswi-Ganti%2FText-Summarizer%2Fblob%2Fmain%2Fdataset%2Fcorpus.zip","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":null,"truncatedSloc":null},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplate":null,"discussionTemplate":null,"language":null,"languageID":null,"large":true,"planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/Tejaswi-Ganti/Text-Summarizer/blob/main/dataset/corpus.zip","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","releasePath":"/Tejaswi-Ganti/Text-Summarizer/releases/new?marketplace=true","showPublishActionBanner":false},"rawBlobUrl":"https://github.com/Tejaswi-Ganti/Text-Summarizer/raw/main/dataset/corpus.zip","renderImageOrRaw":true,"richText":null,"renderedFileInfo":null,"shortPath":null,"symbolsEnabled":true,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","actionsOnboardingTip":null},"truncated":true,"viewable":false,"workflowRedirectUrl":null,"symbols":{"timed_out":true,"not_analyzed":true,"symbols":[],"error":{"code":"invalid_argument","msg":"content required","meta":{}}}},"copilotInfo":null,"copilotAccessAllowed":false,"csrf_tokens":{"/Tejaswi-Ganti/Text-Summarizer/branches":{"post":"7AcCMVCr7uMXQP9VqBBJtp_r7bGBNAUBKIexccG_Jxso9So8FulNMH3w7pTYhXqWNT3ICC4gKei9IyTxMATjXA"},"/repos/preferences":{"post":"lnfzK8vT2GrQV77zhwmNNF6xoD6ZfiIkSpIhGPcDSalt8TOwB9HVCbWVXDaR_ac_Qtt_8sd4k_26cY87LmQsyg"}}},"title":"Text-Summarizer/dataset/corpus.zip at main · Tejaswi-Ganti/Text-Summarizer","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-a007d7f370d6.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-d0f0ff069004.js","githubDevUrl":null,"enabled_features":{"code_nav_ui_events":false,"copilot_conversational_ux":false,"react_blob_overlay":false,"copilot_conversational_ux_embedding_update":false,"copilot_popover_file_editor_header":false,"copilot_smell_icebreaker_ux":true,"copilot_workspace":false}}}</script>
+  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":false,"fileTree":{"dataset":{"items":[{"name":"samsum-dataset","path":"dataset/samsum-dataset","contentType":"directory"},{"name":"README.txt","path":"dataset/README.txt","contentType":"file"},{"name":"corpus.7z","path":"dataset/corpus.7z","contentType":"file"},{"name":"corpus.zip","path":"dataset/corpus.zip","contentType":"file"},{"name":"data.zip","path":"dataset/data.zip","contentType":"file"},{"name":"licence.txt","path":"dataset/licence.txt","contentType":"file"},{"name":"samsum-test.csv","path":"dataset/samsum-test.csv","contentType":"file"},{"name":"samsum-test.json","path":"dataset/samsum-test.json","contentType":"file"},{"name":"samsum-train.csv","path":"dataset/samsum-train.csv","contentType":"file"},{"name":"samsum-train.json","path":"dataset/samsum-train.json","contentType":"file"},{"name":"samsum-validation.csv","path":"dataset/samsum-validation.csv","contentType":"file"},{"name":"samsum-validation.json","path":"dataset/samsum-validation.json","contentType":"file"},{"name":"summarizer-data.zip","path":"dataset/summarizer-data.zip","contentType":"file"},{"name":"test.json","path":"dataset/test.json","contentType":"file"},{"name":"train.json","path":"dataset/train.json","contentType":"file"},{"name":"val.json","path":"dataset/val.json","contentType":"file"}],"totalCount":16},"":{"items":[{"name":".github","path":".github","contentType":"directory"},{"name":"artifacts","path":"artifacts","contentType":"directory"},{"name":"config","path":"config","contentType":"directory"},{"name":"dataset","path":"dataset","contentType":"directory"},{"name":"research","path":"research","contentType":"directory"},{"name":"src","path":"src","contentType":"directory"},{"name":".gitignore","path":".gitignore","contentType":"file"},{"name":"Dockerfile","path":"Dockerfile","contentType":"file"},{"name":"LICENSE","path":"LICENSE","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"app.py","path":"app.py","contentType":"file"},{"name":"main.py","path":"main.py","contentType":"file"},{"name":"params.yaml","path":"params.yaml","contentType":"file"},{"name":"requirements.txt","path":"requirements.txt","contentType":"file"},{"name":"setup.py","path":"setup.py","contentType":"file"},{"name":"template.py","path":"template.py","contentType":"file"}],"totalCount":16}},"fileTreeProcessingTime":7.543175,"foldersToFetch":[],"repo":{"id":779616207,"defaultBranch":"main","name":"Text-Summarizer","ownerLogin":"Tejaswi-Ganti","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2024-03-30T10:11:12.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/95241216?v=4","public":true,"private":false,"isOrgOwned":false},"codeLineWrapEnabled":false,"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"main","listCacheKey":"v0:1712302733.0","canEdit":false,"refType":"branch","currentOid":"afa8b51e91efe422fbf350fd6df1ad1723d9f95c"},"path":"dataset/summarizer-data.zip","currentUser":null,"blob":{"rawLines":null,"stylingDirectives":[],"colorizedLines":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/Tejaswi-Ganti/Text-Summarizer/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null},"displayName":"summarizer-data.zip","displayUrl":"https://github.com/Tejaswi-Ganti/Text-Summarizer/blob/main/dataset/summarizer-data.zip?raw=true","headerInfo":{"blobSize":"7.54 MB","deleteTooltip":"You must be signed in to make or propose changes","editTooltip":"You must be signed in to make or propose changes","ghDesktopPath":"https://desktop.github.com","isGitLfs":false,"onBranch":true,"shortPath":"1060802","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2FTejaswi-Ganti%2FText-Summarizer%2Fblob%2Fmain%2Fdataset%2Fsummarizer-data.zip","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":null,"truncatedSloc":null},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplate":null,"discussionTemplate":null,"language":null,"languageID":null,"large":true,"planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/Tejaswi-Ganti/Text-Summarizer/blob/main/dataset/summarizer-data.zip","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","releasePath":"/Tejaswi-Ganti/Text-Summarizer/releases/new?marketplace=true","showPublishActionBanner":false},"rawBlobUrl":"https://github.com/Tejaswi-Ganti/Text-Summarizer/raw/main/dataset/summarizer-data.zip","renderImageOrRaw":true,"richText":null,"renderedFileInfo":null,"shortPath":null,"symbolsEnabled":true,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","actionsOnboardingTip":null},"truncated":true,"viewable":false,"workflowRedirectUrl":null,"symbols":{"timed_out":true,"not_analyzed":true,"symbols":[],"error":{"code":"invalid_argument","msg":"content required","meta":{}}}},"copilotInfo":null,"copilotAccessAllowed":false,"csrf_tokens":{"/Tejaswi-Ganti/Text-Summarizer/branches":{"post":"VSLYwX2xHVv_jbCW9-6baeq23KNnVe9R3qa3JmI27yAkgEeqpxBVLokZNNTfEJWDSug1FnLOYjZui1JIpIHjxA"},"/repos/preferences":{"post":"7SNi3MWIJpr-4aDUi_lUIbgM0hZXRUCtZRtSG91b2BAkiSH7D0Ewf5EMR7AvsOCuhBJe2J_NHSyKaRlZ4qj1Tg"}}},"title":"Text-Summarizer/dataset/summarizer-data.zip at main · Tejaswi-Ganti/Text-Summarizer","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-a007d7f370d6.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-d0f0ff069004.js","githubDevUrl":null,"enabled_features":{"code_nav_ui_events":false,"copilot_conversational_ux":false,"react_blob_overlay":false,"copilot_conversational_ux_embedding_update":false,"copilot_popover_file_editor_header":false,"copilot_smell_icebreaker_ux":true,"copilot_workspace":false}}}</script>
   <div data-target="react-app.reactRoot"></div>
 </react-app>
 </turbo-frame>
