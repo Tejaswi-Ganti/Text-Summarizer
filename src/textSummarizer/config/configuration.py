@@ -1,6 +1,7 @@
 from src.textSummarizer.constants import *
 from src.textSummarizer.utils.common import read_yaml,create_directories 
 from src.textSummarizer.entity import (DataIngestionConfig)
+from pathlib import Path
 
 class ConfigurationManager:
     def __init__(
