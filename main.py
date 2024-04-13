@@ -2,6 +2,7 @@ from src.textSummarizer.pipeline.stage_01_dataingestion import DataIngestionTrai
 from src.textSummarizer.pipeline.stage_02_datavalidation import DataValidationTrainingPipeline
 from src.textSummarizer.pipeline.stage_03_datatransformation import DataTransformationTrainingPipeline
 from src.textSummarizer.pipeline.stage_04_model_trainer import ModelTrainerTrainingPipeline
+from src.textSummarizer.pipeline.stage_05_model_evaluation import ModelEvaluationTrainingPipeline
 from src.textSummarizer.logging import logger
 
 
